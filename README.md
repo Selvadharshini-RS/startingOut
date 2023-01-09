@@ -1,0 +1,2 @@
+# startingOut
+Testing out Git
