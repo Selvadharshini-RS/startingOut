@@ -1,0 +1,15 @@
+git clone <repo name>	This is used for cloning the repository from GitHub
+
+git status  Shows the status of your repository
+
+git add .	Stage all the changes and get ready to commit
+
+git commit -m "message_goes_here"	this commits with a certain message
+
+gtit log	You will be using this command the most to se the list of commits and changes
+
+git log --oneline	 This is a simplified version of the above command. Provides the list of commits in a single line.
+
+git push	This updates the GitHub repository with the  commits from the local repository.
+
+This is just the basic commands available in git, to see about more read the official Git documentation https://git-scm.com/docs
